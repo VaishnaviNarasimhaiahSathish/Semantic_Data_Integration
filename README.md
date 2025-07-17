@@ -10,9 +10,9 @@ _Structure of the Project_
 
 The datasets used in this project have been downloaded from Kaggle. Links to the datasets is as below;
 
-**Dataset1_Amazon.xlsx **- TOP 100 BEST SELLING BOOKS ON AMAZON 2009-2021: https://www.kaggle.com/datasets/abdulhamidadavize/top-100-best-selling-books-on-amazon-20092021
+**Dataset1_Amazon.xlsx** - TOP 100 BEST SELLING BOOKS ON AMAZON 2009-2021: https://www.kaggle.com/datasets/abdulhamidadavize/top-100-best-selling-books-on-amazon-20092021
 
-**Dataset2_GoodReads.csv ** - Goodreads Choice Awards Best Books of 2023: http://kaggle.com/datasets/brzy56/goodreads-choice-awards-2023-best-books-of-2023
+**Dataset2_GoodReads.csv** - Goodreads Choice Awards Best Books of 2023: http://kaggle.com/datasets/brzy56/goodreads-choice-awards-2023-best-books-of-2023
 
 **Dataset3_Kindle.csv** - Amazon Kindle Books Dataset 2023: https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books
 
@@ -21,7 +21,7 @@ The datasets used in this project have been downloaded from Kaggle. Links to the
 _Implementation - This folder contains the Scripts and Datalog queries
 _
 
-**task.dl **- query scripts
+**task.dl** - query scripts
 
 **Matchers_Combiners.ipynb **- Implementation for Matching and Combining strategies
 
