@@ -5,7 +5,8 @@ _Overview_
 This project focuses on data integration across three datasets in the book domain: Amazon, Goodreads, and Kindle.
 
 _Structure of the Project_
-**Datasets** -  This folder contains all the Raw Datasets
+
+**Datasets** 
 The datasets used in this project have been downloaded from Kaggle. Links to the datasets is as below;
 
 **Dataset1_Amazon.xlsx **- TOP 100 BEST SELLING BOOKS ON AMAZON 2009-2021: https://www.kaggle.com/datasets/abdulhamidadavize/top-100-best-selling-books-on-amazon-20092021
