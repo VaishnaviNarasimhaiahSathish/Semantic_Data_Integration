@@ -18,12 +18,12 @@ The datasets used in this project have been downloaded from Kaggle. Links to the
 
 **mediated_schema.csv** - Mediated schema file
 
-_Implementation - This folder contains the Scripts and Datalog queries
-_
+_Implementation_ - This folder contains the Scripts and Datalog queries
+
 
 **task.dl** - query scripts
 
-**Matchers_Combiners.ipynb **- Implementation for Matching and Combining strategies
+**Matchers_Combiners.ipynb** - Implementation for Matching and Combining strategies
 
 **Mediated_schema.ipynb** - Script to develop Mediated schema
 
